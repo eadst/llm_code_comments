@@ -11,6 +11,12 @@
 # 除非适用法律要求或书面同意，否则根据许可证分发的软件
 # 将按“原样”基础分发，不附带任何形式的明示或暗示的保证或条件。
 # 请参阅许可证了解特定语言权限和限制。
+# 注释作者: eadst
+# 创建日期: 2024-03-12
+# 版本: v1.0.0
+# 源码链接: https://github.com/huggingface/transformers/blob/main/src/transformers/models/gemma/modeling_gemma.py
+# 模型链接: https://huggingface.co/google/gemma-7b-it
+
 """PyTorch Gemma 模型实现。"""
 
 import math
